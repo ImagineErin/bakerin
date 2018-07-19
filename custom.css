@@ -1,0 +1,56 @@
+/* navbar styling*/
+nav {
+                width: 100%;
+                height: 8em;
+            }
+
+.navbar-brand {
+                font-size: 4em;
+                padding: 40px;
+            }
+
+
+.navbar-nav a{
+              padding-left:30px !important;
+              padding-right:30px !important;
+              color: white !important;
+              font-size: 1.5em !important;
+                          }
+
+/* photo carousel styling*/
+.carousel {
+  width: auto;
+  height: auto;
+}
+
+/* form styling */
+
+  form {
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: left;
+  }
+
+  .contact-form {
+    display: block;
+    text-align: center;
+  }
+
+
+
+
+
+
+
+
+
+
+
+    /*media queries*/
+
+@media screen and (max-width: 479px) {
+
+     /* start of phone styles */
+
+}
