@@ -6,7 +6,7 @@ nav {
 
 .navbar-brand {
                 font-size: 4em;
-                padding: 40px;
+                margin-left: 40px;
             }
 
 
@@ -47,10 +47,6 @@ nav {
 
 
 
-    /*media queries*/
-
-@media screen and (max-width: 479px) {
-
-     /* start of phone styles */
+    
 
 }
