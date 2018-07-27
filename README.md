@@ -1,5 +1,7 @@
 # bakerin
 Description
+To run my project, clone or download and open a browser on index.html
+
 Bakerin is only in its beginning stages right now. It is going to be a company page for a baking and catering company. The complete version will have products available to order online, a functioning contact page, and will be hosted. bakerin.com will be the name attached to this project. Overall, once complete, this will be the hub for showcasing products, ordering online, and contacting about catering.
 
 Custom CSS Classes
