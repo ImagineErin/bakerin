@@ -1,3 +1,4 @@
+// shorten name for smaller screens //
 
 $( window ).resize(function() {
   var brand = document.getElementById("brand-name")
@@ -7,7 +8,7 @@ $( window ).resize(function() {
 	}
   if ($(window).width() >= 801){
     brand.innerHTML = "Bakerin Kitchen";
-    console.log("I have resized to 801 or above");
+    console.log("I have resized to 801 or above")
 	}
 
 })
